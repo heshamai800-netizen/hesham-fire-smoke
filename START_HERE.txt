@@ -1,0 +1,6 @@
+HESHAM CPU Lite V1.5
+1. Extract to new folder
+2. install_windows.bat
+3. run_windows.bat
+4. Browser http://127.0.0.1:8765
+Original TFLite, shared Fire+Smoke inference, USB+RTSP. CPU only.

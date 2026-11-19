@@ -1,0 +1,12 @@
+{
+  "role": "fire-specialist",
+  "architecture": "D-FINE-M",
+  "repo": "fireviewer/litert-models",
+  "revision": "330e9097409042751988e9fa5994b51ac2b577bc",
+  "sha256": "b66acda95a5eaf5154031cf80c1ed906b8cb7838617424afa9b837c5cd44064a",
+  "classes": {
+    "0": "smoke_visible",
+    "1": "flame_visible"
+  },
+  "selected_class": "flame_visible"
+}

@@ -1,0 +1,2 @@
+V1.5.0 FIXED: frontend UI_VERSION, backend APP_VERSION, HTML asset version now all 1.5.0. Static assets no-cache. Original TFLite model, camera code and inference unchanged.
+If an older process occupies port 8765, close it before launching.

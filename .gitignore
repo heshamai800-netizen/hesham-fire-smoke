@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
+.pytest_cache/
+
+# Camera recordings and snapshots
+data/
+events/
+snapshots/
+recordings/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Editor files
+.vscode/
+.idea/
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
